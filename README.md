@@ -142,7 +142,7 @@ This step completes the original idea of implementing statistics and added some 
 ## Notes
 - All comparisons are only made with [Ragnacustoms.com](https://ragnacustoms.com) as THE source for Ragnarock custom songs. Playing songs from other sources is untested and will not be supported.
 - In case a song is available more than once (2 customs, or 1 base game + 1 custom with the same artist + title) the additional data will not be available to avoid displaying information from mapper A while playing a map by mapper B. I follow the "rather no information than wrong information" rule here.
-- Base game songs are supported up to "Viking music pack" (or for a  more specific and current date: currently May 18th 2026). Additional official DLC might need an update in the Streamer.bot actions.
+- Base game songs are supported up to Ragnarock 2.8.0 (published June 30th 2026). Additional official DLC might need an update in the Streamer.bot actions.
 - On some songs the song length might not be available if the information is missing or obviously incorrect.
 - On some songs the song progression bar might not be available, if some necessary information are not provided.
 - The song progression bar is calculated with help of rune placement information, song length and bpm. As the game does not provide any information when for example a user is pausing the game, a timeline would continue to progress. As a workaround information from rune positions in song along with bpm and song length is used, so this system will work even with pausing a song and is more or less nearly as accurate for most songs. That is why it is called song progression bar and not timeline.
